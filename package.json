@@ -25,12 +25,10 @@
     "@aurelia/platform": "^2.0.0-alpha.4",
     "@aurelia/platform-browser": "^2.0.0-alpha.4",
     "@aurelia/runtime": "^2.0.0-alpha.4",
-    "@aurelia/runtime-html": "^2.0.0-alpha.4",
-    "codemirror": "^5.61.1"
+    "@aurelia/runtime-html": "^2.0.0-alpha.4"
   },
   "devDependencies": {
     "@types/codemirror": "^5.60.0",
-    "@types/marked": "^2.0.2",
     "tslib": "^2.2.0",
     "typescript": "^4.2.4"
   }
